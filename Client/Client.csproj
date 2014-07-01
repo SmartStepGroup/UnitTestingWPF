@@ -68,7 +68,10 @@
     <Compile Include="Converter\EnumBooleanConverter.cs" />
     <Compile Include="Model\Operation.cs" />
     <Compile Include="Model\OperationExtension.cs" />
+    <Compile Include="Properties\Annotations.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\MyCommand.cs" />
+    <Compile Include="ViewModel\MyViewModelBase.cs" />
     <Compile Include="ViewModel\ViewModelLocator.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
